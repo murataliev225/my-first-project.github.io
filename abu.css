@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h4 {
+  font-weight: bold;
+}
+
+a {
+  transition: 0.3s;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+.img1{
+  width: 200px;
+  margin-left: -400px;
+}
+
+.h5{
+  text-align: center;
+}
+
+.h4{
+  text-align: center;
+}
+
+.border{
+  height: 400px;
+}
